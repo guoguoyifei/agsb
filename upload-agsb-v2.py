@@ -34,7 +34,7 @@ CUSTOM_DOMAIN_FILE = INSTALL_DIR / "custom_domain.txt" # 存储最终使用的�
 USER_NAME = "guoguoyi"         # 用户名
 UUID = "316984f3-a453-4cb5-a0b8-ded21395806c"                     # UUID，留空则自动生成
 PORT = 49999                   # Vmess端口，留空或0则自动生成
-DOMAIN = "guoguoyi.dpdns.org"                   # 域名，留空则自动获取
+DOMAIN = "gg.guoguoyi.dpdns.org"                   # 域名，留空则自动获取
 CF_TOKEN = "IDEfNM4RTaGMQ5fcDAIu4okZD-1PzzYZueiMRK34"                 # Cloudflare Token，留空则用Quick Tunnel
 # =========================================
 
